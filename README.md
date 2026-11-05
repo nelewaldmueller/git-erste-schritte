@@ -7,3 +7,4 @@ Ich habe in der Vorlesung gelernt, wie Git Änderungen in Commits festhält, Bra
 - **Commit:** gespeicherter Stand zusammengehöriger Änderungen mit Metadaten
 - **Branch:** bewegliche Referenz auf einen Commit, der eine eigene Entwicklungslinie darstellt
 - **Tag:** fester Zeiger auf einen Commit, markiert z.B. Versionsstände
+- **Merge:** führt Änderungen zweier Branches zusammen
